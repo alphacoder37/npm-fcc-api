@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Leon Cummins",
+	"description": "basic FCC webpage",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
